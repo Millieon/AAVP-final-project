@@ -1,3 +1,6 @@
+Project title: 80s Retro Audio Visual
+
+demo video link: https://vimeo.com/851486372?share=copy
 Audio: granular synthesis + low/high pass filter
 Visuals: Camera input+ background subtraction
 
